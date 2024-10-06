@@ -24,9 +24,18 @@ The primary source of the data is the Incubator Hub Data Analysis Training Class
 
 In the first phase of the data cleaning and preparation, we performed the following actions
 
-  1. Data Loading and Inspection.
-  2. Handling missing variables.
-  3. Data cleaning and formatting.
+  1. Data Loading and Inspection
+  2. Handling missing variables
+  3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+
+EDA involved the exploring of the data to answer some questions about the data such as
+
+What is the highest performing region with the highest generated revenue.
+Which line of business is the top seller.
+What model is on peak sales.
+What are the low performing models, line of business as well as low performing region.
 
 
 
