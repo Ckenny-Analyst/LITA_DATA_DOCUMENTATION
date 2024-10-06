@@ -9,7 +9,7 @@ This project aims to analyse regional sales performance across various markets, 
 The primary source of the data is the Incubator Hub Data Analysis Training Class, while the secondary source is Data Sale.csv which is an open source that can be freely downloaded from an open source online such as kaggle or FRED or any other repository site.
 
 ### Tools used
-- Microsoft Excel [Download Here](https.//www.microsoft.com)
+- Microsoft Excel [Download Here](https://www.microsoft.com/en-ng/)
   
     i.  For Data cleaning
   
