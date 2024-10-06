@@ -17,6 +17,17 @@ The primary source of the data is the Incubator Hub Data Analysis Training Class
   
     iii.  For Data visualisation
 
+- SQL - Structured Query Language for querying of Data
+- Github for portfolio building
+
+### Data Cleaning and preparation
+
+In the first phase of the data cleaning and preparation, we performed the following actions
+
+  1. Data Loading and Inspection.
+  2. Handling missing variables.
+  3. Data cleaning and formatting.
+
 
 
 
