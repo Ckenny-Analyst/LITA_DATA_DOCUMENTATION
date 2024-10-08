@@ -22,7 +22,6 @@ The primary source of the data is the Incubator Hub Data Analysis Training Class
 - Github for portfolio building
 
 ## Methodology
----
 ### Data Cleaning and preprocessing
 ---
 
