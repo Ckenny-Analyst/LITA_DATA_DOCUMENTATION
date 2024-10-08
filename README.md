@@ -52,6 +52,7 @@ This includes one of the queries I worked with during the analysis. Below is an 
 
 ### Data Visualisation
 ---
+![Sales Analysis](https://github.com/user-attachments/assets/b4280cad-26f9-4e99-a497-eb2fcde3aaaa)
 
 
 
