@@ -2,6 +2,19 @@
 
 ### Project Title: Regional Sales Analysis for Year 2014 & 2015
 ---
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and preprocessingMethodology
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
 
 ### Project Overview
 ---
