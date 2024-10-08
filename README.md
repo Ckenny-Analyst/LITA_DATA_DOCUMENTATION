@@ -31,12 +31,17 @@ In the first phase of the data cleaning and preparation, we performed the follow
 ### Exploratory Data Analysis
 EDA involved the exploring of the data to answer some questions about the data such as
 - Examine regional sales trends and patterns
-- Analyse market specific sales perfoemance
+- Analyse market specific sales performance
 - Identify top-performing stores and product categories
 - Compare revenue growth between 2014 and 2015
-- Identify areas for improvement
 
+### Data Analysis
+This includes one of the queries I worked with during the analysis. Below is an example:
 
+``` SQL
+   SELECT * FROM SALES TABLE
+   WHERE LINE OF BUSINESS = 'Service Plan'  
+```
 
 
 
