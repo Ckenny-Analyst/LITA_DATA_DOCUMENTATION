@@ -75,22 +75,43 @@ HR Data Analysis - Incubator Hub
 Analyzing employee attrition and job satisfaction across various demographics, identifying trends and key drivers.
 
 ### Key Focus Areas
-
 1. Attrition count and rate
-2. Current employee count
+2. Current and total employee count
 3. Job satisfaction rating by Educational field and Job role
 4. Attrition trends across Department, Gender, Age, Educational field
 
 ### Data Overview
 1. Data source description
    The data for this project was gotten from Incubator Hub Data Analysis Class.
+    ![HR Data Overview](https://github.com/user-attachments/assets/ddc96d6d-ee01-4650-a2f8-fa5074bbead9)    
 
 2. Data cleaning and preprocessing
-   The data was cleaned and transformed using the transformtaion tab in Power BI. Below is an example of the steps used in cleaning few columns in the HR Data
-![HR Data Cleaning](https://github.com/user-attachments/assets/e7a14605-bc30-42b9-9c50-fc3bdd5bd4f4)
+   In the phase of the data cleaning and preparation, the following actions were performed using the transformtaion tab in Power BI.
+   Below is an example of the steps used in cleaning few columns in the HR Data
+    - Data Loading and Inspection
+    - Handling missing variables
+    - Data cleaning and formatting
+    ![HR Data Cleaning](https://github.com/user-attachments/assets/236ce70b-883f-4bea-b485-841d8a498882)
 
+4. Data visualization
+   Power Bi was used for the data analysis and visualization.
 
-   
-4. Data visualization (distribution, correlations)
+### Attrition Analysis
+Attrition Count by department, gender and age.
+![Attrition Trend](https://github.com/user-attachments/assets/12018d15-c78d-4fd8-974c-f7383b6faaf0)
+ From the above visuals, the follwoing inferences were deducted
+ 1. Attrition by Department: 
+
+4. Job Satisfaction Analysis
+
+1. Job satisfaction by department/gender/age (bar charts)
+2. Job satisfaction distribution (histogram)
+3. Key drivers of job satisfaction (bubble chart)
+
+5. Demographic Analysis
+
+1. Employee distribution by age/gender (bar charts)
+2. Departmental distribution (pie charts)
+3. Educational field distribution (histogram)
 
 
