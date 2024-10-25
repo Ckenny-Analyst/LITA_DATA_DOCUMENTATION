@@ -68,7 +68,29 @@ This includes one of the queries I worked with during the analysis. Below is an 
 ![Sales Analysis](https://github.com/user-attachments/assets/b4280cad-26f9-4e99-a497-eb2fcde3aaaa)
 
 
+# Incubator HR Data Analysis Tracker Project
+
+### Project Overview
+HR Data Analysis - Incubator Hub
+Analyzing employee attrition and job satisfaction across various demographics, identifying trends and key drivers.
+
+### Key Focus Areas
+
+1. Attrition count and rate
+2. Current employee count
+3. Job satisfaction rating by Educational field and Job role
+4. Attrition trends across Department, Gender, Age, Educational field
+
+### Data Overview
+1. Data source description
+   The data for this project was gotten from Incubator Hub Data Analysis Class.
+
+2. Data cleaning and preprocessing
+   The data was cleaned and transformed using the transformtaion tab in Power BI. Below is an example of the steps used in cleaning few columns in the HR Data
+![HR Data Cleaning](https://github.com/user-attachments/assets/e7a14605-bc30-42b9-9c50-fc3bdd5bd4f4)
 
 
+   
+4. Data visualization (distribution, correlations)
 
 
